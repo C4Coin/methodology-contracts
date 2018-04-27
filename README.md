@@ -1,4 +1,5 @@
 # methodology-contracts
+
 Smart contracts for C4Coin's on-chain methodologies
 
 * `develop` — [add circleci badge]
@@ -10,12 +11,12 @@ _insert overview_
 
 ## Development
 
-The smart contracts are being implemented in Solidity `0.4.19`.
+The smart contracts are being implemented in Solidity `0.4.23`.
 
 ### Development Prerequisites
 
-* [NodeJS](htps://nodejs.org), version 9.5+ (I use [`nvm`](https://github.com/creationix/nvm) to manage Node versions — `brew install nvm`.)
-* [truffle](http://truffleframework.com/), which is a comprehensive framework for Ethereum development. `npm install -g truffle` — this should install Truffle v4.0.6 or better.  Check that with `truffle version`.
+* [NodeJS](htps://nodejs.org), version 9.11.1 (I use [`nvm`](https://github.com/creationix/nvm) to manage Node versions — `brew install nvm`.)
+* [truffle](http://truffleframework.com/), which is a comprehensive framework for Ethereum development. `npm install -g truffle` — this should install Truffle v4.1.7 or better.  Check that with `truffle version`.
 * [Access to the C4Coin Jira](https://c4coin.atlassian.net)
 
 ### Initialisation
